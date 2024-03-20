@@ -1,9 +1,9 @@
 package main
 
 import (
-	"image-processing-app/api/middleware"
-	"image-processing-app/api/route"
-	"image-processing-app/bootstrap"
+	"image-processing-backend/api/middleware"
+	"image-processing-backend/api/route"
+	"image-processing-backend/bootstrap"
 	"time"
 
 	"github.com/gin-gonic/gin"

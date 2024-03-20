@@ -1,7 +1,7 @@
 package route
 
 import (
-	"image-processing-app/bootstrap"
+	"image-processing-backend/bootstrap"
 	"time"
 
 	"github.com/gin-gonic/gin"

@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"errors"
 	"fmt"
-	"image-processing-app/bootstrap"
+	"image-processing-backend/bootstrap"
 	"net/http"
 	"os"
 	"strings"

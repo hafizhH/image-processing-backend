@@ -1,8 +1,8 @@
 package route
 
 import (
-	"image-processing-app/api/controller"
-	"image-processing-app/bootstrap"
+	"image-processing-backend/api/controller"
+	"image-processing-backend/bootstrap"
 	"time"
 
 	"github.com/gin-gonic/gin"

@@ -2,8 +2,8 @@ package tests
 
 import (
 	"bytes"
-	"image-processing-app/api/route"
-	"image-processing-app/bootstrap"
+	"image-processing-backend/api/route"
+	"image-processing-backend/bootstrap"
 	"io"
 	"mime/multipart"
 	"net/http"

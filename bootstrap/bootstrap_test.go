@@ -1,7 +1,7 @@
 package bootstrap
 
 import (
-	_ "image-processing-app/tests"
+	_ "image-processing-backend/tests"
 	"testing"
 
 	"github.com/stretchr/testify/assert"

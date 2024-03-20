@@ -3,7 +3,7 @@ package controller
 import (
 	"bytes"
 	"errors"
-	"image-processing-app/bootstrap"
+	"image-processing-backend/bootstrap"
 	"net/http"
 	"os"
 	"strconv"
